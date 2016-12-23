@@ -19,9 +19,3 @@ var Examples = (props) => {
   };
 
 module.exports = Examples;
-
-var Examples = React.createClass({
-  render: function () {
-
-  }
-});
